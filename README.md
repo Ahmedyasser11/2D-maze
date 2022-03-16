@@ -1,2 +1,3 @@
-# AI-Package
-Implement Many Algorithms. Depth limited search algorithm, Bidirectional search algorithm, Best first search algorithm, DBSCAN clustering algorithm 
+# Search Algorithm
+A search algorithm to solve 2d maze using python
+This is a team project done for artificial intelligence course
